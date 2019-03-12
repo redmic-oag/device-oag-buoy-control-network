@@ -1,0 +1,9 @@
+[Match]ethernet
+Name=eth0
+
+[Network]
+DHCP=both
+
+[DHCP]
+RouteMetric=20
+
